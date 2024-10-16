@@ -6,10 +6,10 @@
 # My Favorite Hobbies
 - **Watching movies**
 
- ![image](https://github.com/user-attachments/assets/3b868a45-3d7d-479d-8edd-bbeb040d06f7)
+![image](https://github.com/user-attachments/assets/3b868a45-3d7d-479d-8edd-bbeb040d06f7)
 - **Scrolling on Social Media**
 
- ![image](https://github.com/user-attachments/assets/06a92ef0-2305-4af8-9a3b-1c076f8bf4f3)
+![image](https://github.com/user-attachments/assets/06a92ef0-2305-4af8-9a3b-1c076f8bf4f3)
 
 - **Playing Guitar**
 
@@ -24,6 +24,10 @@
 - **Back to the Future**
 
 ![image](https://github.com/user-attachments/assets/c01cc84d-b743-4145-81a4-5dcc3b126c0a)
-- **Guardians of The Galaxy Vol. 3
+- **Guardians of The Galaxy Vol. 3**
 
-![image](https://github.com/user-attachments/assets/a7130186-5304-4902-bd1c-dc755c5b32e3)
+![image](https://github.com/user-attachments/assets/ae1994f5-e50d-4cb1-9f49-d63c7b90fe68)
+- **Sinister**
+
+![image](https://github.com/user-attachments/assets/e9d51d79-b3bc-4589-a71f-546ae20d1540)
+
